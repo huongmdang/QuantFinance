@@ -1,5 +1,3 @@
-## 3. PCA technique in currency replication.
-
 ## Welcome to Project 2.
 ## PCA technique in currency replication.
 
@@ -14,7 +12,7 @@ Project 2 is to answer the common question in the predictive model. That is how 
 
 ### How to install:
 
-Save and run this file [PCA_FX.ipynb](https://github.com/huongmdang/QuantFinance/blob/main/PCA/src/PCA_FX.ipynb) in the same directory with the data related files.
+Save and run this file [PCA_FX.ipynb](https://github.com/huongmdang/QuantFinance/blob/main/PCA/src/PCA_FX.ipynb) in the same parent directory 'Datasets' indicated in the [first section](https://github.com/huongmdang/QuantFinance/tree/main/FXData).
 
 ### Reference link:
 

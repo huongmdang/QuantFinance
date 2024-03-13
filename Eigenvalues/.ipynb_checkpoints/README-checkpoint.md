@@ -20,3 +20,5 @@ Reference article [G10 currencies - Eigenvalues approach applied Excess out-of-s
 
 #### Contact:
 Any questions or opinions please feel free to reach out to me at huong.dang.m@gmail.com or via [Linkedin](https://www.linkedin.com/in/huong-dang-bb589521/). 
+
+Thanks for your time!
