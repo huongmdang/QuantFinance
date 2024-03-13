@@ -20,7 +20,7 @@ Save 3 files [import_FX_data.ipynb](https://github.com/huongmdang/QuantFinance/b
 - *'Datasets' is the parent folder, of which 3 files above should be placed in.*
 - *'FX-1-Minute-Data' is an unzipped folder containing the FX data.*
 
-Create '.env' file including the information 'hostname, dbname, uname and pwd' which is reused in various places.
+Create to yourself a file named '.env', including the information 'hostname, dbname, uname and pwd' which is reused in various places and save it to 'Datasets'.
 
 Run file [import_FX_data.ipynb](https://github.com/huongmdang/QuantFinance/blob/main/FXData/src/import_FX_data.ipynb) **ONCE** to import all data. It may take several hours to complete. Please be patient! 
 
