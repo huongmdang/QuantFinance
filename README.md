@@ -1,6 +1,6 @@
 ## Welcome to my Quant Finance repo!
 
-Thanks for visiting my repository! Throughout Quant Finance projects, I hope to provide you some insights regarding:
+Thanks for visiting my repository! Throughout Quant Finance projects, you may get some insights regarding:
 - How the eigenvalues contributes to explain the volatility of currency pairs.
 - The practice of principal component analysis (PCA) in replication strategy. 
 
